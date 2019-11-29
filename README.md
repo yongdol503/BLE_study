@@ -1,1 +1,2 @@
-# BLE_study
+# BLE_study  
+Bluetooth Low Energy  
